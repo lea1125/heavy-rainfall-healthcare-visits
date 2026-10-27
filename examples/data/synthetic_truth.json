@@ -1,0 +1,12 @@
+{
+  "description": "True relative effects (%) = 100 * mean(Y1 - Y0) / mean(Y0) per group",
+  "relative_effect_pct": {
+    "Overall": -9.109689215543728,
+    "Workday": -6.0019590657550275,
+    "Rest day": -15.621932699345805,
+    "August": -11.76287252902018,
+    "hospital": -8.154444418677693,
+    "clinic": -12.168333822868705,
+    "pharmacy": -8.17348798512338
+  }
+}

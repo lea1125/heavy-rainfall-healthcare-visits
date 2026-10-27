@@ -1,0 +1,5 @@
+# Versions used to produce the results in the paper (Python 3.12.11)
+numpy==1.26.4
+pandas==2.3.0
+scikit-learn==1.8.0
+xgboost==3.2.0
